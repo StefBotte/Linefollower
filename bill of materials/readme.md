@@ -14,3 +14,4 @@
 |         9|  soldeersel  |     rol tin       |    recup       |        /      |  1    |   /      |
 |         10|  wielen  |     2 wielen 32mm     |   nieuw        |              |   2   |         |
 |         11| DC motoren | 2 6 VDC-motoren 1:50 | nieuw |    | 2 |  |
+|         12| schakelaar | schakelaar | nieuw |     |1 |      |
