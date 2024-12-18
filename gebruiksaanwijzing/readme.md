@@ -36,11 +36,11 @@ De sensoren zijn nu correct gekalibreert.
 ### settings
 De robot rijdt stabiel met volgende parameters: 
 cycle:2500
-power:
+power: 140
 diff: 0.60
-kp: 
-kd: 
-ki: 
+kp: 10
+kd: 0.3
+ki: 0
 
 ### start/stop button
 De button bevindt zich boven de arduino .
