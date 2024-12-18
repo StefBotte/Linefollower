@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ATMEGA328P (arduino nano)
 
-motors: 
+motors: 6V DC 50:1
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 18650 Li-ion batterijen
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 110mm
 
 weight:
 
-speed: 
+speed: 0.48
 
