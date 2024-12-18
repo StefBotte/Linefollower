@@ -2,9 +2,9 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![A description of my image](images/Linefollower.jpg)
 
-  
+
 ## specifications
 
 microcontroller: ATMEGA328P (arduino nano)
